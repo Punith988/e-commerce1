@@ -15,9 +15,7 @@ html {
     background-position: center center;
     background-size: 100% 100%;
     margin-top: -215px;
-   
 }
-
 .navbar {
     background-color: #efefef;
     padding: 15px 30px;
@@ -55,18 +53,14 @@ html {
 .nav-link:hover {
     color: #1bbd36;
 }
-
 .navbar-brand {
     font-size: 23px;
     letter-spacing: 1px;
     margin-left: 40px;
-
 }
-
 .navbar-brand span {
     color: #1bbd36;
 }
-
 .bannner-card {
     background-color: rgba(0, 0, 0, 0.41);
     color: white;
@@ -76,11 +70,7 @@ html {
     padding: 20px;
     position: relative;
     top: 150px;
-   
-    /* animation-name: fadeinup; */
 }
-
-
 .banner-btn {
     background-color: transparent;
     text-transform: capitalize;
@@ -90,9 +80,6 @@ html {
     border-radius: 10px;
     margin-left: 300px;
     transform: background-color .3s;
-}
-.banner-btn span{
-
 }
 .banner-btn:hover {
     background-color: #1bbd36;
@@ -113,19 +100,16 @@ html {
     /* margin-left: 30px; */
     padding: 50px;
 }
-
 .ipsam-content h1 {
     font-size: 40px;
     color: rgba(82, 80, 80, 0.907);
     margin-bottom: 45px;
 }
-
 .ipsam-content ul {
 
     list-style-type: none;
     margin-left: -10px;
 }
-
 .ipsam-content h2 {
     font-weight: 500;
     text-justify: auto;
@@ -135,15 +119,12 @@ html {
 .ipsam-content li {
     height: 33px;
 }
-
 .fa-check-double {
     color: #1bbd36;
-
 }
-
 /* ipsam ends */
 
-/* /* lorem starts */
+ /* lorem starts */
 .lorem {
     margin: 10px 50px 50px 50px;
     background-color: rgba(192, 184, 184, 0.145);
@@ -284,8 +265,6 @@ html {
     display: inline-block;
     margin-left: -5px;
 }
-
-
 .client-card img {
     height: 50px;
     width: 100px;
@@ -296,11 +275,11 @@ html {
 .client-card:hover img {
     transform: scale(1.3);
 }
-
 /* clients ends */
+
+
 /* footer starts */
 .footer {
-
     background-color: black;
     color: white;
 }
@@ -312,7 +291,6 @@ html {
 }
 
 .footer div {
-
     width: 250px;
     padding: 50px 20px;
     display: inline-block;
